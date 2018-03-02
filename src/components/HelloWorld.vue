@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to second docker App'
+      msg: 'Welcome to third docker App'
     }
   }
 }
